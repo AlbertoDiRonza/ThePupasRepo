@@ -1,5 +1,5 @@
 # ThePupasRepo
-This is am accessibility project made by a team of five, for people who want to learn sign language.
+This is an accessibility project made by a team of five, for people who want to learn sign language.
 It's implemented in Swift using many Apple frameworks such as: 
 - CreateML
 - CoreML
